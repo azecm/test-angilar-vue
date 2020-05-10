@@ -13,23 +13,18 @@ npm run serve
 npm run build
 ```
 
-## Условия
+## Результат
 
-работа протестирована в Chrome 50
-
-## Реультат
-
-нажмите кнопку "Протестировать опрос"
-
-данные отображаются в 
-- броузере
-- консоли
-- идет отправка на сервер
-
-данные берутся только из разделов, где выбрано условие
+- добавить условие
+- "Протестировать опрос"
+- данные берутся только из разделов, где выбрано условие
 
 ## Посмотреть
 
 https://azecm.github.io/test-takeoff-vue/
 
-https://github.com/azecm/test-takeoff-vue
+## Аналоги
+
+- https://github.com/azecm/test-takeoff-angular
+- https://github.com/azecm/test-takeoff-vue
+- https://github.com/azecm/test-takeoff-react

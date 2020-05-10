@@ -47,7 +47,8 @@
   import {Component, Vue} from 'vue-property-decorator';
 
   @Component({
-    components: {MenuButton}
+    components: {MenuButton},
+
   })
   export default class LeftBlock extends Vue {
   }
